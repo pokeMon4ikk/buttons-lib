@@ -1,0 +1,7 @@
+button{
+    color: slategrey;
+    font-size: 14px;
+    border-radius: 5px;
+    border: 1px solid;
+    box-shadow: 0 7px 12px 0 rgba(0, 0, 0, 0.5);
+}
